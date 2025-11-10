@@ -1,1 +1,1 @@
-# struktur-flask
+# flask_postgres_mahasiswa
